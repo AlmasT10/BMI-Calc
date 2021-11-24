@@ -1,0 +1,7 @@
+.container {
+  margin: 20px auto;
+  padding: 20px auto;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
